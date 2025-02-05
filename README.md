@@ -12,6 +12,7 @@ Fixed a bug with spam (not really and this is an experimental version)
 
 
 Flaws:
+
 Very few features
 
 ▫️ .run Executes a command in the console.
