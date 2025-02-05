@@ -6,6 +6,7 @@ Currently in experimental testing
 
 Advantages:
 Working "ping"
+
 Fixed a bug with spam (not really and this is an experimental version)
 
 
@@ -19,6 +20,7 @@ RU: Текущая последняя версия — 0.8.
 
 Преимущества:
 Рабочий «пинг»
+
 Исправлена ​​ошибка со спамом (не совсем и это экспериментальная версия)
 
 Недостатки:
